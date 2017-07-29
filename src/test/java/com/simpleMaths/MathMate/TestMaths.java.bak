@@ -34,7 +34,6 @@ public class TestMaths
 	@Test
 	public void subTestCase()
 	{
-		//bchbvkbvjkb
 		assertEquals(4,app.sum(10,5));
 	}
 }
